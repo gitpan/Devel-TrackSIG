@@ -21,4 +21,4 @@ requires:
   Carp: 0
   Tie::Hash: 0
   Tie::Scalar: 0
-version: 0.02
+version: 0.03
